@@ -245,8 +245,8 @@
          "columns":10,
          "firstgid":1,
          "image":"src\/assets\/tileset5_export.png",
-         "imageheight":340,
-         "imagewidth":340,
+         "imageheight":320,
+         "imagewidth":320,
          "margin":0,
          "name":"tileset5_export",
          "properties":[
@@ -264,8 +264,8 @@
          "columns":10,
          "firstgid":101,
          "image":"src\/assets\/tileset6_export.png",
-         "imageheight":340,
-         "imagewidth":340,
+         "imageheight":320,
+         "imagewidth":320,
          "margin":0,
          "name":"tileset6_export",
          "properties":[
@@ -283,8 +283,8 @@
          "columns":11,
          "firstgid":201,
          "image":"src\/assets\/tileset1.png",
-         "imageheight":374,
-         "imagewidth":374,
+         "imageheight":352,
+         "imagewidth":352,
          "margin":0,
          "name":"tileset1",
          "properties":[
@@ -302,8 +302,8 @@
          "columns":11,
          "firstgid":322,
          "image":"src\/assets\/tileset1-repositioning.png",
-         "imageheight":374,
-         "imagewidth":374,
+         "imageheight":352,
+         "imagewidth":352,
          "margin":0,
          "name":"tileset1-repositioning",
          "properties":[
@@ -321,8 +321,8 @@
          "columns":6,
          "firstgid":443,
          "image":"src\/assets\/Special_Zones.png",
-         "imageheight":68,
-         "imagewidth":204,
+         "imageheight":64,
+         "imagewidth":192,
          "margin":0,
          "name":"Special_Zones",
          "properties":[
@@ -347,8 +347,23 @@
          "tilewidth":32
         }, 
         {
+         "columns":8,
          "firstgid":455,
-         "source":"src\/assets\/hi_res_interior_general.tsx"
+         "image":"src\/assets\/hi_res_interior_general.png",
+         "imageheight":19168,
+         "imagewidth":256,
+         "margin":0,
+         "name":"hi_res_interior_general",
+         "properties":[
+                {
+                 "name":"titlesetCopyright",
+                 "type":"string",
+                 "value":"by akizakura16 on deviantart.com: \"free for non-commercial use\""
+                }],
+         "spacing":0,
+         "tilecount":4792,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
