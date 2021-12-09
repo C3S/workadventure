@@ -268,7 +268,7 @@
         {
          "columns":10,
          "firstgid":1,
-         "image":"src\/assets\/tileset5_export.png",
+         "image":"tiles\/tileset5_export.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -287,7 +287,7 @@
         {
          "columns":10,
          "firstgid":101,
-         "image":"src\/assets\/tileset6_export.png",
+         "image":"tiles\/tileset6_export.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -306,7 +306,7 @@
         {
          "columns":11,
          "firstgid":201,
-         "image":"src\/assets\/tileset1.png",
+         "image":"tiles\/tileset1.png",
          "imageheight":352,
          "imagewidth":352,
          "margin":0,
@@ -325,7 +325,7 @@
         {
          "columns":11,
          "firstgid":322,
-         "image":"src\/assets\/tileset1-repositioning.png",
+         "image":"tiles\/tileset1-repositioning.png",
          "imageheight":352,
          "imagewidth":352,
          "margin":0,
@@ -344,7 +344,7 @@
         {
          "columns":6,
          "firstgid":443,
-         "image":"src\/assets\/Special_Zones.png",
+         "image":"tiles\/Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -373,7 +373,7 @@
         {
          "columns":8,
          "firstgid":455,
-         "image":"src\/assets\/hi_res_interior_general_1.png",
+         "image":"tiles\/hi_res_interior_general_1.png",
          "imageheight":4096,
          "imagewidth":256,
          "margin":0,
@@ -392,7 +392,7 @@
         {
          "columns":8,
          "firstgid":1479,
-         "image":"src\/assets\/hi_res_interior_general_2.png",
+         "image":"tiles\/hi_res_interior_general_2.png",
          "imageheight":4096,
          "imagewidth":256,
          "margin":0,
@@ -411,7 +411,7 @@
         {
          "columns":8,
          "firstgid":2503,
-         "image":"src\/assets\/hi_res_interior_general_3.png",
+         "image":"tiles\/hi_res_interior_general_3.png",
          "imageheight":4096,
          "imagewidth":256,
          "margin":0,
@@ -430,7 +430,7 @@
         {
          "columns":8,
          "firstgid":3527,
-         "image":"src\/assets\/hi_res_interior_general_4.png",
+         "image":"tiles\/hi_res_interior_general_4.png",
          "imageheight":4096,
          "imagewidth":256,
          "margin":0,
@@ -449,7 +449,7 @@
         {
          "columns":8,
          "firstgid":4551,
-         "image":"src\/assets\/hi_res_interior_general_5.png",
+         "image":"tiles\/hi_res_interior_general_5.png",
          "imageheight":2783,
          "imagewidth":256,
          "margin":0,
@@ -468,7 +468,7 @@
         {
          "columns":19,
          "firstgid":5239,
-         "image":"src\/assets\/FreezeManTileset.png",
+         "image":"tiles\/FreezeManTileset.png",
          "imageheight":272,
          "imagewidth":624,
          "margin":0,
@@ -487,7 +487,7 @@
         {
          "columns":8,
          "firstgid":5391,
-         "image":"src\/assets\/LightShadow_pipo.png",
+         "image":"tiles\/LightShadow_pipo.png",
          "imageheight":257,
          "imagewidth":256,
          "margin":0,
