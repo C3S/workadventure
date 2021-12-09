@@ -23,7 +23,7 @@ This project contains multiple licenses:
 
 * [Code license](./LICENSE.code) *(all files except those for other licenses)*
 * [Map license](./LICENSE.map) *(`map.json` and the map visual as well)*
-* [Assets license](./LICENSE.assets) *(the files inside the `src/assets/` folder)*
+* [Assets license](./LICENSE.assets) *(the files inside the `tiles/` folder)*
 
 ### About third party assets
 
