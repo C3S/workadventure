@@ -21,4 +21,4 @@ This project contains multiple licenses:
 * [Map license](./LICENSE.map) *(`map.json` and the map visual as well)*
 * [Assets license](./LICENSE.assets) *(the files inside the `tiles/` folder)*
 
-Based on *WorkAdventure Map Starter Kit* but most tilesets taken from the [MietshäuserSyndikat Workadventure](https://github.com/pippcat/WA-syndikat), free for non-commercial use. See `titlesetCopyright` notices in main.json for all the other tilesets.
+Based on *WorkAdventure Map Starter Kit* but most tilesets taken from the [MietshäuserSyndikat Workadventure](https://github.com/pippcat/WA-syndikat), free for non-commercial use. See `tilesetCopyright` notices in main.json for all the other tilesets.
