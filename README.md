@@ -1,6 +1,6 @@
 # C3S WorkAdventure
 
-This is the C3S SCE workadventure, introduced in the rc3 2021.
+This is the C3S SCE workadventure, introduced on the rc3 2021.
 
 ## Installation
 
