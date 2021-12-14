@@ -471,7 +471,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"http:\/\/docs.c3s.cc\/collecting_society\/"
+                         "value":"https:\/\/docs.c3s.cc\/collecting_society\/"
                         }],
                  "type":"tilelayer",
                  "visible":true,
