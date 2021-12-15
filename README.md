@@ -22,3 +22,5 @@ This project contains multiple licenses:
 * [Assets license](./LICENSE.assets) *(the files inside the `tiles/` folder)*
 
 Based on *WorkAdventure Map Starter Kit* but most tilesets taken from the [MietshäuserSyndikat Workadventure](https://github.com/pippcat/WA-syndikat), free for non-commercial use. See `tilesetCopyright` notices in main.json for all the other tilesets.
+
+The C3S-specific tiles text.png and businessplan.png are CC BY-SA.
