@@ -159,7 +159,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"MeetingRoom"
+                 "value":"WorkMeetingC3S"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -177,7 +177,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"ChillZone"
+                 "value":"ChillloutC3S"
                 }],
          "type":"tilelayer",
          "visible":true,
