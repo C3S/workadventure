@@ -15,7 +15,7 @@
                  "value":"world:\/\/afoio\/main.json#c3s"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -30,10 +30,10 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lounge"
+                 "value":"world:\/\/lobby"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -45,7 +45,7 @@
          "name":"afoio",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -57,7 +57,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -75,7 +75,7 @@
                  "value":"main.json#transporterSpawnpointHackquarter"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -93,7 +93,7 @@
                  "value":"main.json#transporterSpawnpointFoyer"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -111,7 +111,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -129,7 +129,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -141,7 +141,7 @@
          "name":"collisions",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -156,6 +156,11 @@
                  "name":"soundDancefloor",
                  "opacity":1,
                  "properties":[
+                        {
+                         "name":"audioCopyright",
+                         "type":"string",
+                         "value":"Trent Rezonor aka Nine Inch Nails (from the album The Slip), CC BY-NC-SA"
+                        }, 
                         {
                          "name":"audioLoop",
                          "type":"bool",
@@ -175,7 +180,7 @@
          "name":"sounds",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -192,7 +197,7 @@
                  "value":"WorkMeetingC3S"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -210,7 +215,7 @@
                  "value":"ChillloutC3S"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -228,7 +233,7 @@
                  "value":"clock"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -258,7 +263,7 @@
          "name":"perimeter",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -270,7 +275,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -282,7 +287,7 @@
          "name":"floorSemitransparent",
          "opacity":0.25,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -294,7 +299,7 @@
          "name":"stage",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -306,7 +311,7 @@
          "name":"onStage",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -318,7 +323,7 @@
          "name":"floorShadow",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -329,7 +334,7 @@
          "name":"floorLayer",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -340,7 +345,7 @@
          "name":"dinosaur",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -352,7 +357,7 @@
          "name":"cave",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -364,7 +369,7 @@
          "name":"walls",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -376,7 +381,7 @@
          "name":"aboveWalls",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -388,7 +393,7 @@
          "name":"shadow",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -400,7 +405,7 @@
          "name":"moreShadow",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -412,7 +417,7 @@
          "name":"movingSpotlights1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -424,7 +429,7 @@
          "name":"movingSpotlights2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -436,7 +441,7 @@
          "name":"staticSpotlights",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -448,7 +453,7 @@
          "name":"onScreenBusinessplan",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -460,7 +465,7 @@
          "name":"onScreenWhiteEdges",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -472,7 +477,7 @@
          "name":"furniture",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -484,7 +489,7 @@
          "name":"aboveFurniture",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -496,7 +501,7 @@
          "name":"recruitmentOfficer",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -741,7 +746,7 @@
          "name":"showUrl",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -774,7 +779,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -785,7 +790,7 @@
          "name":"abovePlayer1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -797,7 +802,7 @@
          "name":"abovePlayer2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
@@ -809,7 +814,7 @@
          "name":"abovePlayer3",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
