@@ -824,11 +824,6 @@
          "value":"C3S Homebase"
         }, 
         {
-         "name":"mapImage",
-         "type":"string",
-         "value":"map.png"
-        }, 
-        {
          "name":"mapLink",
          "type":"string",
          "value":"https:\/\/thecodingmachine.github.io\/workadventure-map-starter-kit\/main.json"
