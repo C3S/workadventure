@@ -821,12 +821,12 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"C3S Homebase"
+         "value":"C3S Homebase, created for the 2nd rc3 in winter 2021"
         }, 
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/thecodingmachine.github.io\/workadventure-map-starter-kit\/main.json"
+         "value":"https:\/\/www.c3s.cc"
         }, 
         {
          "name":"mapName",
