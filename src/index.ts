@@ -39,10 +39,10 @@ const rectuitmentDontKnow = "I don't know an answer to '";
 const recruitmentPrompt = "If I understand you right, you are asking: ";
 WA.room.onEnterZone('recruitment', () => {
     currentBot = "Recruitment Officer";
-    if (!recruitmentWelcome)
+    if (!recruitmentWelcome) {
         WA.chat.sendChatMessage(recruitmentWelcomeMessage, currentBot);
-    else
         recruitmentWelcome = true;
+    }
 });
 WA.room.onLeaveZone('recruitment',  () => {
     currentBot = undefined;
