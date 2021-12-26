@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby"
+                 "value":"world:\/\/lobby#start_c3s"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -832,11 +832,6 @@
          "name":"mapName",
          "type":"string",
          "value":"C3S Homebase"
-        }, 
-        {
-         "name":"script",
-         "type":"string",
-         "value":"https:\/\/static.rc3.world\/c3s\/script.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
