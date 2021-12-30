@@ -254,6 +254,11 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to join the C3S couch party."
                 }],
          "type":"tilelayer",
          "visible":true,
